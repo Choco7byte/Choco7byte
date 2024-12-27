@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sai Kiran
+# Hi there 👋 I'm Harini Sri
 
 ## About Me
 🎓 Pre-final year student passionate about Open Source and Software Development  
