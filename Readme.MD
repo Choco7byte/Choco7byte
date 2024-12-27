@@ -18,7 +18,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 LeetCode Stats
-(![LeetCode Stats](https://leetcard.jacoblin.cool/harinisri347?theme=dark&font=Noto%20Sans%20Tagalog))
+![LeetCode Stats](https://leetcard.jacoblin.cool/harinisri347?theme=dark&font=Noto%20Sans%20Tagalog)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
