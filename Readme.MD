@@ -13,9 +13,7 @@
 - Version Control: Git & GitHub
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=harini07104&bg_color=000000&color=00ff00&line=00ff00&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
-
-
+![Your GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=harini07104&bg_color=000000&color=00ff00&line=00ff00&point=403d3d&area=true&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 LeetCode Stats
